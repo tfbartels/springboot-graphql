@@ -21,8 +21,7 @@ Acesse o endereço http://localhost:8080/graphiql
 
 ### Através de requisições
 
-Faça uma requisição do tipo POST para o endereço http://localhost:8080/graphql
-Envie no corpo da requisição a query desejada.
+Faça uma requisição do tipo POST para o endereço http://localhost:8080/graphql e envie no corpo da requisição a query desejada. Exemplo:
 
 ```bash
 query{
